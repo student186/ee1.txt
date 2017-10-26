@@ -1,7 +1,7 @@
 <html>
  <head>
 <title>My Eportfolio</title>
-<marquee style="z-index:2;position:absolute;left:554;top:13;font-family:monotype corsiva;font-size:60pt;color:white;height:90;"scrollamount="5" direction="down">My Eportfoilo</marquee>
+<marquee behavior="scroll" direction="left">gdfgdfgdf</marquee>
 <br>
 
 <style>
